@@ -1,17 +1,16 @@
 # Hi there, I'm Ilmal! 👋  
 
 🎓 **About Me**  
-I’m a Computer Science student majoring in Information Systems.  
-💡 Passionate about **Artificial Intelligence** and **Web Development**, with a growing focus on **Machine Learning** and **Generative AI**.  
-🌱 Currently learning **Machine Learning Algorithms**, exploring tools like **TensorFlow**, and experimenting with **Generative AI** models.  
+An Information Systems student passionate about Data Analysis and Data Science. Experienced in data analysis, driven by a growth mindset, and eager to turn data into meaningful insights. Adaptable, collaborative, and continuously learning to grow in the data field.  
 
 ---
 
 ### 🎓 **Education**  
-- **STMIK Jabar** (2022 - 2026)  
+- **Universitas Al-Ghifari** (2022 - 2026)  
   Major: Information Systems  
   - Vice Chair of the Islamic Propagation Organization (*Lembaga Dakwah*).  
-  - Vice Chair of *HIMASI* (Information Systems Student Association).  
+  - Served as Head of Education Division at HIMASI (Information Systems Student Association).
+  - Mentored new students for 4 weeks to help them adapt to university life, academic systems, and learning strategies. 
 
 - **SMAN 15 Garut** (2018 - 2021)  
   Major: Natural Science (*MIPA*)  
@@ -39,7 +38,7 @@ I’m a Computer Science student majoring in Information Systems.
 ### 🚀 **My Interests**  
 - 🌐 Web Development: Crafting interactive and responsive websites.  
 - 🤖 Artificial Intelligence: Building intelligent systems to solve real-world problems.  
-- 🌾 Technology for Agriculture: Exploring how AI and IoT can revolutionize farming practices in Indonesia.
+- I want to help people make the right decisions—decisions based on data.
 
 ---
 
@@ -57,12 +56,6 @@ I’m a Computer Science student majoring in Information Systems.
 <a href="https://linkedin.com/in/ilmalyakinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilmalyakinn" height="30" width="40" /></a>
 <a href="https://instagram.com/ilmalyakinn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilmalyakinn_" height="30" width="40" /></a>
 </p>
-
----
-
-### 🌟 **Future Goals**  
-- Create AI-driven solutions to support sustainable agriculture in Indonesia.  
-- Learn more about **Generative AI** to develop creative and impactful applications.
 
 ---
 # 🚀 My GitHub Stats and Top Languages
