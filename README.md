@@ -12,11 +12,6 @@ An Information Systems student passionate about Data Analysis and Data Science. 
   - Served as Head of Education Division at HIMASI (Information Systems Student Association).
   - Mentored new students for 4 weeks to help them adapt to university life, academic systems, and learning strategies. 
 
-- **SMAN 15 Garut** (2018 - 2021)  
-  Major: Natural Science (*MIPA*)  
-  - Member of Environmental Club (*Ekskul Lingkungan Hidup*).  
-  - Member of Scouting Organization (*Pramuka*).
-
 ---
 
 ### 🚀 **Experience**  
