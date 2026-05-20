@@ -56,14 +56,9 @@ An Information Systems student passionate about Data Analysis and Data Science. 
 # 🚀 My GitHub Stats and Top Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ilmalyakinn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmalyakinn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+| GitHub Stats | Top Languages |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilmalyakin-n&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmalyakin-n&layout=compact&theme=radical&hide_border=true&cache_seconds=1800) |
+
 </div>
